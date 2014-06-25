@@ -1,5 +1,5 @@
 {
-    "name": "ingewikkeld/user-bundle",
+    "name": "ingewikkeld/rest-user-bundle",
     "description": "Bundle with some default configurations for use with friendsofsymfony/user-bundle",
     "license": "MIT",
     "version": "0.1",
