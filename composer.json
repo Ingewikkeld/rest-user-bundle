@@ -2,6 +2,7 @@
     "name": "ingewikkeld/user-bundle",
     "description": "Bundle with some default configurations for use with friendsofsymfony/user-bundle",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "Stefan Koopmanschap",
