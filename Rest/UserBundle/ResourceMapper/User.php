@@ -3,14 +3,14 @@
  * Symfony REST Edition.
  *
  * @link      https://github.com/Ingewikkeld/symfony-rest-edition
- * @copyright Copyright (c) 2013-2013 Ingewikkeld<info@ingewikkeld.net>
+ * @copyright Copyright (c) 2013-2014 Ingewikkeld<info@ingewikkeld.net>
  * @license   https://github.com/Ingewikkeld/symfony-rest-edition/blob/master/LICENSE MIT License
  */
 
 namespace Ingewikkeld\Rest\UserBundle\ResourceMapper;
 
 use Hal\Resource;
-use Ingewikkeld\Rest\Resource\MapperInterface;
+use Ingewikkeld\Rest\ResourceBundle\Resource\MapperInterface;
 use Ingewikkeld\Rest\UserBundle\Entity\User as UserEntity;
 use Symfony\Component\Form\FormInterface;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
