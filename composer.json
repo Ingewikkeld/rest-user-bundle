@@ -11,6 +11,6 @@
     ],
     "require": {
         "friendsofsymfony/user-bundle":         "dev-master",
-        "ingewikkeld/rest-resource-bundle":     "dev-master",
+        "ingewikkeld/rest-resource-bundle":     "dev-master"
     }
 }
