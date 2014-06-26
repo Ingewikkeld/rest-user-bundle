@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-            "psr-0": { "": "src/" }
+            "psr-0": { "Ingewikkeld": "src/" }
     },
     "require": {
         "friendsofsymfony/user-bundle":         "dev-master",
