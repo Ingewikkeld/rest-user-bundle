@@ -7,7 +7,7 @@
     <parameters>
         <parameter key="ingewikkeld_rest_user.resourcemapper.user.class">Ingewikkeld\Rest\UserBundle\ResourceMapper\User</parameter>
         <parameter key="ingewikkeld_rest_user.formtype.user.class">Ingewikkeld\Rest\UserBundle\Form\UserType</parameter>
-        <parameter key="ingewikkeld_rest_user.controller.user.class">Ingewikkeld\Rest\Resource\Controller</parameter>
+        <parameter key="ingewikkeld_rest_user.controller.user.class">Ingewikkeld\Rest\ResourceBundle\Resource\Controller</parameter>
     </parameters>
 
     <services>
